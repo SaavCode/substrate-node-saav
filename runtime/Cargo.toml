@@ -1,5 +1,5 @@
 [package]
-authors = ['Substrate DevHub <https://github.com/substrate-developer-hub>']
+authors = ['Nestor Saavedra <https://github.com/saavfoxdev>']
 edition = '2018'
 homepage = 'https://substrate.dev'
 license = 'Unlicense'
